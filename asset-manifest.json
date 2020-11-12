@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gameCubes/static/css/main.660e5588.chunk.css",
+    "main.js": "/gameCubes/static/js/main.16bc4174.chunk.js",
+    "main.js.map": "/gameCubes/static/js/main.16bc4174.chunk.js.map",
+    "runtime-main.js": "/gameCubes/static/js/runtime-main.525ecf02.js",
+    "runtime-main.js.map": "/gameCubes/static/js/runtime-main.525ecf02.js.map",
+    "static/css/2.a10ec74d.chunk.css": "/gameCubes/static/css/2.a10ec74d.chunk.css",
+    "static/js/2.7e0eaa14.chunk.js": "/gameCubes/static/js/2.7e0eaa14.chunk.js",
+    "static/js/2.7e0eaa14.chunk.js.map": "/gameCubes/static/js/2.7e0eaa14.chunk.js.map",
+    "index.html": "/gameCubes/index.html",
+    "static/css/2.a10ec74d.chunk.css.map": "/gameCubes/static/css/2.a10ec74d.chunk.css.map",
+    "static/css/main.660e5588.chunk.css.map": "/gameCubes/static/css/main.660e5588.chunk.css.map",
+    "static/js/2.7e0eaa14.chunk.js.LICENSE.txt": "/gameCubes/static/js/2.7e0eaa14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.525ecf02.js",
+    "static/css/2.a10ec74d.chunk.css",
+    "static/js/2.7e0eaa14.chunk.js",
+    "static/css/main.660e5588.chunk.css",
+    "static/js/main.16bc4174.chunk.js"
+  ]
+}
